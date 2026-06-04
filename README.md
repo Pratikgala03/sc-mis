@@ -17,8 +17,7 @@ cp .env.local.example .env.local
 npm run dev
 ```
 
-Open http://localhost:3000 · Login: admin@scmis.com / changeme123
-
+Open http://localhost:3000 · 
 ## Deployment
 
 See DEPLOY.md for Railway + Netlify setup.
